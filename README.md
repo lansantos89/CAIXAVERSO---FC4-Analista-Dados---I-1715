@@ -1,2 +1,4 @@
 # CAIXAVERSO---FC4-Analista-Dados---I-1715
-Técnicas de Programação I (PY)
+Tecnicas de Programacao I (PY)
+Aluno: Landson juliao dos Santos
+Ada Tech
